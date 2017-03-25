@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Afghanistan",
+        "populace": 27.66,
+        "imageUrl": "https://i.imgur.com/HS5dpsQ.png",
+        "id": 0,
+        "currency": "AFN",
+        "capital": "Kabul",
+        "continent": "Asia"
+    },
+    {
+        "name": "\u00c5land Islands",
+        "populace": 0.03,
+        "imageUrl": "https://i.imgur.com/8640Aud.png",
+        "id": 1,
+        "currency": "EUR",
+        "capital": "Mariehamn",
+        "continent": "Europe"
+    },
+    {
+        "name": "Albania",
+        "populace": 2.89,
+        "imageUrl": "https://i.imgur.com/wwV3y15.png",
+        "id": 2,
+        "currency": "ALL",
+        "capital": "Tirana",
+        "continent": "Europe"
+    },
+    {
+        "name": "Algeria",
+        "populace": 40.4,
+        "imageUrl": "https://i.imgur.com/IwzUNcz.png",
+        "id": 3,
+        "currency": "DZD",
+        "capital": "Algiers",
+        "continent": "Africa"
+    },
+    {
+        "name": "American Samoa",
+        "populace": 0.06,
+        "imageUrl": "https://i.imgur.com/N2InbJO.png",
+        "id": 4,
+        "currency": "USD",
+        "capital": "Pago Pago",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Andorra",
+        "populace": 0.08,
+        "imageUrl": "https://i.imgur.com/fLwZ1UZ.png",
+        "id": 5,
+        "currency": "EUR",
+        "capital": "Andorra la Vella",
+        "continent": "Europe"
+    },
+    {
+        "name": "Angola",
+        "populace": 25.87,
+        "imageUrl": "https://i.imgur.com/ieTCFIC.png",
+        "id": 6,
+        "currency": "AOA",
+        "capital": "Luanda",
+        "continent": "Africa"
+    },
+    {
+        "name": "Anguilla",
+        "populace": 0.01,
+        "imageUrl": "https://i.imgur.com/JHCdTbX.png",
+        "id": 7,
+        "currency": "XCD",
+        "capital": "The Valley",
+        "continent": "Americas"
+    },
+    {
+        "name": "Antarctica",
+        "populace": 0.0,
+        "imageUrl": "https://i.imgur.com/ss08P0j.png",
+        "id": 8,
+        "currency": "AUD",
+        "capital": "",
+        "relevance": "0",
+        "continent": "Polar"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "populace": 0.09,
+        "imageUrl": "https://i.imgur.com/GBpr5GX.png",
+        "id": 9,
+        "currency": "XCD",
+        "capital": "Saint John's",
+        "continent": "Americas"
+    },
+    {
+        "name": "Argentina",
+        "populace": 43.59,
+        "imageUrl": "https://i.imgur.com/0ZmGOoz.png",
+        "id": 10,
+        "currency": "ARS",
+        "capital": "Buenos Aires",
+        "continent": "Americas"
+    },
+    {
+        "name": "Armenia",
+        "populace": 2.99,
+        "imageUrl": "https://i.imgur.com/Qia9o4p.png",
+        "id": 11,
+        "currency": "AMD",
+        "capital": "Yerevan",
+        "continent": "Asia"
+    },
+    {
+        "name": "Aruba",
+        "populace": 0.11,
+        "imageUrl": "https://i.imgur.com/eZ3uEqy.png",
+        "id": 12,
+        "currency": "AWG",
+        "capital": "Oranjestad",
+        "continent": "Americas"
+    },
+    {
+        "name": "Australia",
+        "populace": 24.12,
+        "imageUrl": "https://i.imgur.com/GvY16iE.png",
+        "id": 13,
+        "currency": "AUD",
+        "capital": "Canberra",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Austria",
+        "populace": 8.73,
+        "imageUrl": "https://i.imgur.com/pchYd2j.png",
+        "id": 14,
+        "currency": "EUR",
+        "capital": "Vienna",
+        "continent": "Europe"
+    },
+    {
+        "name": "Azerbaijan",
+        "populace": 9.73,
+        "imageUrl": "https://i.imgur.com/in3bzKW.png",
+        "id": 15,
+        "currency": "AZN",
+        "capital": "Baku",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bahamas",
+        "populace": 0.38,
+        "imageUrl": "https://i.imgur.com/nxfM63C.png",
+        "id": 16,
+        "currency": "BSD",
+        "capital": "Nassau",
+        "continent": "Americas"
+    },
+    {
+        "name": "Bahrain",
+        "populace": 1.4,
+        "imageUrl": "https://i.imgur.com/STtygSf.png",
+        "id": 17,
+        "currency": "BHD",
+        "capital": "Manama",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bangladesh",
+        "populace": 161.01,
+        "imageUrl": "https://i.imgur.com/oQMXZGX.png",
+        "id": 18,
+        "currency": "BDT",
+        "capital": "Dhaka",
+        "continent": "Asia"
+    },
+    {
+        "name": "Barbados",
+        "populace": 0.28,
+        "imageUrl": "https://i.imgur.com/wchboH2.png",
+        "id": 19,
+        "currency": "BBD",
+        "capital": "Bridgetown",
+        "continent": "Americas"
+    },
+    {
+        "name": "Belarus",
+        "populace": 9.5,
+        "imageUrl": "https://i.imgur.com/2dkNBog.png",
+        "id": 20,
+        "currency": "BYN",
+        "capital": "Minsk",
+        "continent": "Europe"
+    },
+    {
+        "name": "Belgium",
+        "populace": 11.32,
+        "imageUrl": "https://i.imgur.com/Py8dZjZ.png",
+        "id": 21,
+        "currency": "EUR",
+        "capital": "Brussels",
+        "continent": "Europe"
+    },
+    {
+        "name": "Belize",
+        "populace": 0.37,
+        "imageUrl": "https://i.imgur.com/0c6bYfw.png",
+        "id": 22,
+        "currency": "BZD",
+        "capital": "Belmopan",
+        "continent": "Americas"
+    },
+    {
+        "name": "Benin",
+        "populace": 10.65,
+        "imageUrl": "https://i.imgur.com/gAYaofe.png",
+        "id": 23,
+        "currency": "XOF",
+        "capital": "Porto-Novo",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bermuda",
+        "populace": 0.06,
+        "imageUrl": "https://i.imgur.com/dg2qnm7.png",
+        "id": 24,
+        "currency": "BMD",
+        "capital": "Hamilton",
+        "continent": "Americas"
+    },
+    {
+        "name": "Bhutan",
+        "populace": 0.78,
+        "imageUrl": "https://i.imgur.com/iRGa5HY.png",
+        "id": 25,
+        "currency": "BTN",
+        "capital": "Thimphu",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "populace": 10.99,
+        "imageUrl": "https://i.imgur.com/6PulEDy.png",
+        "id": 26,
+        "currency": "BOB",
+        "capital": "Sucre",
+        "continent": "Americas"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "populace": 0.02,
+        "imageUrl": "https://i.imgur.com/eMtFXny.png",
+        "id": 27,
+        "currency": "USD",
+        "capital": "Kralendijk",
+        "continent": "Americas"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "populace": 3.53,
+        "imageUrl": "https://i.imgur.com/b10IINZ.png",
+        "id": 28,
+        "currency": "BAM",
+        "capital": "Sarajevo",
+        "continent": "Europe"
+    },
+    {
+        "name": "Botswana",
+        "populace": 2.14,
+        "imageUrl": "https://i.imgur.com/ahQZ0tx.png",
+        "id": 29,
+        "currency": "BWP",
+        "capital": "Gaborone",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bouvet Island",
+        "populace": 0.0,
+        "imageUrl": "https://i.imgur.com/GwCj8vV.png",
+        "id": 30,
+        "currency": "NOK",
+        "capital": "",
+        "continent": "Polar"
+    }
+]
