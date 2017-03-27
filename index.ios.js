@@ -1,14 +1,7 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component } from 'react';
 import {
   AppRegistry,
   StyleSheet,
-  Text,
   View
 } from 'react-native';
 
@@ -20,6 +13,7 @@ import Home from './app/presentation/home.component';
 import Navigation from './app/presentation/navigation.component';
 import CountryFlagContainer from './app/containers/flag-container.component';
 import ContinentsContainer from './app/containers/continents-container.component';
+import CountryDetailsContainer from './app/containers/country-details.component';
 
 export default class countries extends Component {
   render() {
@@ -32,6 +26,7 @@ export default class countries extends Component {
             </View>
             <Route exact path='/' component={Home} />
             <Route path='/countries' component={CountryFlagContainer} />
+            <Route path='/country/:id' component={CountryDetailsContainer} />
             <Route path='/continents' component={ContinentsContainer} />
           </View>
         </NativeRouter>

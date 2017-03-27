@@ -29,7 +29,7 @@
     {
         "name": "Algeria",
         "populace": 40.4,
-        "imageUrl": "https://i.imgur.com/IwzUNcz.png",
+        "imageUrl": "https://i.imgur.com/JHCdTbX.png", 
         "id": 3,
         "currency": "DZD",
         "capital": "Algiers",
@@ -47,7 +47,7 @@
     {
         "name": "Andorra",
         "populace": 0.08,
-        "imageUrl": "https://i.imgur.com/fLwZ1UZ.png",
+        "imageUrl": "https://i.imgur.com/ieTCFIC.png",
         "id": 5,
         "currency": "EUR",
         "capital": "Andorra la Vella",
@@ -56,7 +56,7 @@
     {
         "name": "Angola",
         "populace": 25.87,
-        "imageUrl": "https://i.imgur.com/ieTCFIC.png",
+        "imageUrl": "https://i.imgur.com/Qia9o4p.png",
         "id": 6,
         "currency": "AOA",
         "capital": "Luanda",
@@ -65,7 +65,7 @@
     {
         "name": "Anguilla",
         "populace": 0.01,
-        "imageUrl": "https://i.imgur.com/JHCdTbX.png",
+        "imageUrl": "https://i.imgur.com/IwzUNcz.png",
         "id": 7,
         "currency": "XCD",
         "capital": "The Valley",
@@ -84,7 +84,7 @@
     {
         "name": "Antigua and Barbuda",
         "populace": 0.09,
-        "imageUrl": "https://i.imgur.com/GBpr5GX.png",
+        "imageUrl": "https://i.imgur.com/GvY16iE.png", 
         "id": 9,
         "currency": "XCD",
         "capital": "Saint John's",
@@ -102,7 +102,7 @@
     {
         "name": "Armenia",
         "populace": 2.99,
-        "imageUrl": "https://i.imgur.com/Qia9o4p.png",
+        "imageUrl": "https://i.imgur.com/GBpr5GX.png",
         "id": 11,
         "currency": "AMD",
         "capital": "Yerevan",
@@ -120,7 +120,7 @@
     {
         "name": "Australia",
         "populace": 24.12,
-        "imageUrl": "https://i.imgur.com/GvY16iE.png",
+        "imageUrl": "https://i.imgur.com/pchYd2j.png",
         "id": 13,
         "currency": "AUD",
         "capital": "Canberra",
@@ -129,7 +129,7 @@
     {
         "name": "Austria",
         "populace": 8.73,
-        "imageUrl": "https://i.imgur.com/pchYd2j.png",
+        "imageUrl": "https://i.imgur.com/in3bzKW.png",
         "id": 14,
         "currency": "EUR",
         "capital": "Vienna",
@@ -138,7 +138,7 @@
     {
         "name": "Azerbaijan",
         "populace": 9.73,
-        "imageUrl": "https://i.imgur.com/in3bzKW.png",
+        "imageUrl": "https://i.imgur.com/nxfM63C.png",
         "id": 15,
         "currency": "AZN",
         "capital": "Baku",
@@ -147,7 +147,7 @@
     {
         "name": "Bahamas",
         "populace": 0.38,
-        "imageUrl": "https://i.imgur.com/nxfM63C.png",
+        "imageUrl": "https://i.imgur.com/iRGa5HY.png",
         "id": 16,
         "currency": "BSD",
         "capital": "Nassau",
@@ -156,7 +156,7 @@
     {
         "name": "Bahrain",
         "populace": 1.4,
-        "imageUrl": "https://i.imgur.com/STtygSf.png",
+        "imageUrl": "https://i.imgur.com/dg2qnm7.png",
         "id": 17,
         "currency": "BHD",
         "capital": "Manama",
@@ -165,7 +165,7 @@
     {
         "name": "Bangladesh",
         "populace": 161.01,
-        "imageUrl": "https://i.imgur.com/oQMXZGX.png",
+        "imageUrl": "https://i.imgur.com/0c6bYfw.png",
         "id": 18,
         "currency": "BDT",
         "capital": "Dhaka",
@@ -174,7 +174,7 @@
     {
         "name": "Barbados",
         "populace": 0.28,
-        "imageUrl": "https://i.imgur.com/wchboH2.png",
+        "imageUrl": "https://i.imgur.com/xbeaEzR.png",
         "id": 19,
         "currency": "BBD",
         "capital": "Bridgetown",
@@ -183,7 +183,7 @@
     {
         "name": "Belarus",
         "populace": 9.5,
-        "imageUrl": "https://i.imgur.com/2dkNBog.png",
+        "imageUrl": "https://i.imgur.com/b10IINZ.png",
         "id": 20,
         "currency": "BYN",
         "capital": "Minsk",
@@ -192,7 +192,7 @@
     {
         "name": "Belgium",
         "populace": 11.32,
-        "imageUrl": "https://i.imgur.com/Py8dZjZ.png",
+        "imageUrl": "https://i.imgur.com/oQMXZGX.png",
         "id": 21,
         "currency": "EUR",
         "capital": "Brussels",
@@ -201,7 +201,7 @@
     {
         "name": "Belize",
         "populace": 0.37,
-        "imageUrl": "https://i.imgur.com/0c6bYfw.png",
+        "imageUrl": "https://i.imgur.com/ahQZ0tx.png",
         "id": 22,
         "currency": "BZD",
         "capital": "Belmopan",
@@ -210,7 +210,7 @@
     {
         "name": "Benin",
         "populace": 10.65,
-        "imageUrl": "https://i.imgur.com/gAYaofe.png",
+        "imageUrl": "https://i.imgur.com/wchboH2.png",
         "id": 23,
         "currency": "XOF",
         "capital": "Porto-Novo",
@@ -219,7 +219,7 @@
     {
         "name": "Bermuda",
         "populace": 0.06,
-        "imageUrl": "https://i.imgur.com/dg2qnm7.png",
+        "imageUrl": "https://i.imgur.com/GwCj8vV.png",
         "id": 24,
         "currency": "BMD",
         "capital": "Hamilton",
@@ -228,7 +228,7 @@
     {
         "name": "Bhutan",
         "populace": 0.78,
-        "imageUrl": "https://i.imgur.com/iRGa5HY.png",
+        "imageUrl": "https://i.imgur.com/IJgikfF.png",
         "id": 25,
         "currency": "BTN",
         "capital": "Thimphu",
@@ -237,7 +237,7 @@
     {
         "name": "Bolivia (Plurinational State of)",
         "populace": 10.99,
-        "imageUrl": "https://i.imgur.com/6PulEDy.png",
+        "imageUrl": "https://i.imgur.com/TKLMGv6.png",
         "id": 26,
         "currency": "BOB",
         "capital": "Sucre",
@@ -246,7 +246,7 @@
     {
         "name": "Bonaire, Sint Eustatius and Saba",
         "populace": 0.02,
-        "imageUrl": "https://i.imgur.com/eMtFXny.png",
+        "imageUrl": "https://i.imgur.com/ZZZ6uAd.png",
         "id": 27,
         "currency": "USD",
         "capital": "Kralendijk",
@@ -255,7 +255,7 @@
     {
         "name": "Bosnia and Herzegovina",
         "populace": 3.53,
-        "imageUrl": "https://i.imgur.com/b10IINZ.png",
+        "imageUrl": "https://i.imgur.com/nbbeGjh.png",
         "id": 28,
         "currency": "BAM",
         "capital": "Sarajevo",
@@ -264,7 +264,7 @@
     {
         "name": "Botswana",
         "populace": 2.14,
-        "imageUrl": "https://i.imgur.com/ahQZ0tx.png",
+        "imageUrl": "https://i.imgur.com/NPC9bVY.png",
         "id": 29,
         "currency": "BWP",
         "capital": "Gaborone",
@@ -273,7 +273,7 @@
     {
         "name": "Bouvet Island",
         "populace": 0.0,
-        "imageUrl": "https://i.imgur.com/GwCj8vV.png",
+        "imageUrl": "https://i.imgur.com/hiFGh4U.png",
         "id": 30,
         "currency": "NOK",
         "capital": "",

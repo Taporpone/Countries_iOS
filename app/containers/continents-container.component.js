@@ -18,14 +18,11 @@ class ContinentsContainer extends Component {
         this.deleteCountry = this.deleteCountry.bind(this);
         this.chooseContinent = this.chooseContinent.bind(this);
     }
-    chooseContinent() {
-        this.props.dispatch(setContinent(this.state.pick));
+    chooseContinent(continent) {
+        this.props.dispatch(setContinent(continent));
     }
     deleteCountry(id) {
         this.props.dispatch(deleteCountry(id));
-    }
-    componentDidMount() {
-        this.props.dispatch(setContinent('Europe'));
     }
     render() {
         return (
@@ -33,7 +30,7 @@ class ContinentsContainer extends Component {
                 <Picker
                     onValueChange={(pick) => {
                         this.setState({ pick });
-                        this.chooseContinent();
+                        this.chooseContinent(pick);
                     }}
                     selectedValue={this.state.pick}
                 >

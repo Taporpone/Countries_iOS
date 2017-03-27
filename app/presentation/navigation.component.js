@@ -16,27 +16,27 @@ const Navigation = props => (
             <Link to='/continents'><Text> Continents </Text></Link>
         </View>
         <View style={styles.fluid}>
-                {props.children}
-            </View>
+            {props.children}
         </View>
-        );
+    </View>
+);
 
 export default Navigation;
 
-const styles ={
-            container: {
-        },
-    title:{
-            marginTop: 20,
+const styles = StyleSheet.create({
+    container: {
+    },
+    title: {
+        marginTop: 20,
         marginBottom: 10
     },
     menu: {
-            flexDirection: 'row',
+        flexDirection: 'row',
         justifyContent: 'space-around',
         alignItems: 'flex-start',
         marginBottom: 20,
     },
     fluid: {
-            flex: 1,
+        flex: 1,
     }
-}
+});

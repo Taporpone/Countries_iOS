@@ -14,21 +14,16 @@ export default class CountryFlag extends Component {
     }
     render() {
         return (
-            <View 
-                style={styles.container}
-                ref={component => this._root = component}
-            >
+            <View ref={component => this._root = component}>
                 <Image style={styles.image} source={{ uri: this.props.country.imageUrl }} />
             </View>
         );
     }
 };
 
-const styles = {
-    container: {
-    },
+const styles = StyleSheet.create({
     image: {
         width:150,
         height:100,
     }
-}
+});

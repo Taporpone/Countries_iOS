@@ -22,8 +22,8 @@ class CountryFlagContainer extends Component {
         this.props.dispatch(getCountries());
         this.props.dispatch(searchCountries(''));
     }
-    search() {
-        this.props.dispatch(searchCountries(this.state.text));
+    search(text) {
+        this.props.dispatch(searchCountries(text));
     }
     deleteCountry(id) {
         this.props.dispatch(deleteCountry(id));
@@ -37,7 +37,7 @@ class CountryFlagContainer extends Component {
                         style={{height: 40}}
                         onChangeText={(text) => {
                             this.setState({ text });
-                            this.search();
+                            this.search(text);
                             }
                         } 
                         value={this.state.text} 
